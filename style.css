@@ -1,0 +1,10 @@
+#demo {
+ position: absolute; top: 100px; left: 200px;
+}
+button {
+  width: 100px; height: 80px; /* 按鈕尺寸 */
+  background: #ffcc00;       
+  border: 3px solid #333;    /* 黑色邊框 */
+  font-weight: bold;
+  cursor: pointer;   /*出現小手游標 */
+}
